@@ -1,0 +1,18 @@
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\bin\Debug\SimpleCalculatorSDA.exe.config
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\bin\Debug\SimpleCalculatorSDA.exe
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\bin\Debug\SimpleCalculatorSDA.pdb
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.csprojResolveAssemblyReference.cache
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.Properties.Resources.resources
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.csproj.GenerateResource.Cache
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.exe
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.pdb
+c:\users\mima\documents\visual studio 2015\Projects\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.Form1.resources
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\bin\Debug\SimpleCalculatorSDA.exe.config
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.exe
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.pdb
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\bin\Debug\SimpleCalculatorSDA.exe
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\bin\Debug\SimpleCalculatorSDA.pdb
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.csprojResolveAssemblyReference.cache
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.Form1.resources
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.Properties.Resources.resources
+C:\Users\pawel\Downloads\SimpleCalculatorSDA\SimpleCalculatorSDA\SimpleCalculatorSDA\obj\Debug\SimpleCalculatorSDA.csproj.GenerateResource.Cache
